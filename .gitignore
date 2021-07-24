@@ -6,7 +6,7 @@
 *.ko
 *.obj
 *.elf
-
+*.log
 # Linker output
 *.ilk
 *.map
@@ -45,6 +45,7 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+BrowseInfo/
 .tmp_versions/
 modules.order
 Module.symvers
