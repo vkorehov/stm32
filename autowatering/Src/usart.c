@@ -19,7 +19,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "usart.h"
-const uint8_t myAddress = 0x50;
+const uint8_t myAddress = 0x51;
 UART_HandleTypeDef huart1;
 void TxCpltCallback(UART_HandleTypeDef *huart);
 /* USART1 init function */

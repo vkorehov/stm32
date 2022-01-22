@@ -1,44 +1,44 @@
-C:\generated\autowatering\EWARM\autowatering\BrowseInfo\Drivers\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.pbi: \
-  C:\generated\autowatering\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal_dma.c \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal.h \
-  C:\generated\autowatering\EWARM\..\Inc\stm32g0xx_hal_conf.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_def.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g0xx.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Include\core_cm0plus.h \
+C:\stm32\autowatering\EWARM\autowatering\BrowseInfo\Drivers\STM32G0xx_HAL_Driver\stm32g0xx_hal_dma.pbi: \
+  C:\stm32\autowatering\Drivers\STM32G0xx_HAL_Driver\Src\stm32g0xx_hal_dma.c \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal.h \
+  C:\stm32\autowatering\EWARM\..\Inc\stm32g0xx_hal_conf.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_def.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g0xx.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Include\core_cm0plus.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\stdint.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\ycheck.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\yvals.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\DLib_Defaults.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\DLib_Config_Full.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\DLib_Product.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\aarch32\iccarm_builtin.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
-  C:\generated\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\stddef.h \
   C:\IAR\EmbeddedWorkbench9.0\arm\inc\c\ysizet.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_rcc.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_cortex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_adc.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_exti.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_tim.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_tim_ex.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart.h \
-  C:\generated\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart_ex.h
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_rcc.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_cortex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_adc.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_adc_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_exti.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_tim.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_tim_ex.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart.h \
+  C:\stm32\autowatering\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_uart_ex.h

@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --backend -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
+& "C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --backend -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
 }
 else
 {
-& "C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --debug_file=$debugfile --backend -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
+& "C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --debug_file=$debugfile --backend -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
 }

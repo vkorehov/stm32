@@ -73,7 +73,6 @@ const uint16_t PIN_MAP[] = {
   GPIO_PIN_15
 };
 
-#define ADC_MAX_VAL 16400
 // DMA readings of 15 inputs (last is 3x wires together, and before last one is 2x wires together)
 volatile uint16_t ADC_BUFFER[] = {0xffff,0xffff,0xffff,0xffff,0xffff,0xffff,0xffff,0xffff,
                          0xffff,0xffff,0xffff,0xffff,0xffff,0xffff,0xffff};
@@ -168,12 +167,12 @@ uint32_t ReadVar(uint32_t idx) {
 uint8_t Watering(void) {
   uint8_t n = 0;
   for(uint8_t i = 0; i < MAP_SIZE; i++) {
-    if (ADC_AVERAGE[i] >= safe_treshold) {
-      HAL_Delay(50); // small delay for Rpi uart to work    
-      return 0x66; // Abort wayrting and send special state
+    // abort if fluuding in ANY of sensors!
+    for(uint8_t j = 0; j < MAP_SIZE; i++) {
+      if (ADC_AVERAGE[j] >= safe_treshold) {
+        return 0x66; // Abort watering and send special state
+      }
     }
-  }
-  for(uint8_t i = 0; i < MAP_SIZE; i++) {
     if (ADC_AVERAGE[i] < treshold) {
       n++;
       HAL_GPIO_WritePin(PORT_MAP[i], PIN_MAP[i], GPIO_PIN_SET);

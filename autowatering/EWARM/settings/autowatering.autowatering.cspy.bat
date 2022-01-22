@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --backend -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
+"C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" --backend -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" "--debug_file=%~1" --backend -f "C:\generated\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
+"C:\IAR\EmbeddedWorkbench9.0\common\bin\cspybat" -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.general.xcl" "--debug_file=%~1" --backend -f "C:\stm32\autowatering\EWARM\settings\autowatering.autowatering.driver.xcl" 
 
 @echo off 
 :end

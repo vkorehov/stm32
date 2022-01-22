@@ -2,7 +2,7 @@
 
 "C:\IAR\EmbeddedWorkbench9.0\arm\bin\armSTLINK.dll" 
 
-"C:\generated\autowatering\EWARM\autowatering\Exe\autowatering.out" 
+"C:\stm32\autowatering\EWARM\autowatering\Exe\autowatering.out" 
 
 --plugin="C:\IAR\EmbeddedWorkbench9.0\arm\bin\armbat.dll" 
 
